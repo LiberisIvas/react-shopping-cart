@@ -1,0 +1,52 @@
+{
+    "products": [
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix1.jpg",
+        "price" : 4.256 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        },
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix2.jpg",
+        "price" : 3.457 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        },
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix3.jpg",
+        "price" : 2.987 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        },
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix4.jpg",
+        "price" : 0.99 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        },
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix5.jpg",
+        "price" : 1.526 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        },
+        {
+         "_id" : "dress1",
+        "title" : "Muesli Mix",
+        "description": "the magic combination of ",
+        "image": "/images/MuesliMix6.jpg",
+        "price" : 9.554 ,
+        "avaialableSizes" : [ "Normal", "XXL"]
+        }
+    ]
+}
